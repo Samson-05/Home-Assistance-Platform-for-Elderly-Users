@@ -1,0 +1,11 @@
+{
+    "_id": {
+        "$oid": "6881e2b73da46bfbaa394029"
+    },
+    "block_name": "H",
+    "floors": 6,
+    "total_flats": 22,
+    "lift_available": true,
+    "block_manager": "Mr. Vinod Pillai",
+    "cctv_installed": true
+}

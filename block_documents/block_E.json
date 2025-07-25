@@ -1,0 +1,11 @@
+{
+    "_id": {
+        "$oid": "6881e2b73da46bfbaa394026"
+    },
+    "block_name": "E",
+    "floors": 7,
+    "total_flats": 28,
+    "lift_available": true,
+    "block_manager": "Mr. Anil Kumar",
+    "cctv_installed": true
+}

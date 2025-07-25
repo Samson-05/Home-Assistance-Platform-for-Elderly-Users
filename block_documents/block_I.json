@@ -1,0 +1,11 @@
+{
+    "_id": {
+        "$oid": "6881e2b73da46bfbaa39402a"
+    },
+    "block_name": "I",
+    "floors": 5,
+    "total_flats": 20,
+    "lift_available": true,
+    "block_manager": "Mrs. Kavita Rao",
+    "cctv_installed": true
+}

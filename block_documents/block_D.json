@@ -1,0 +1,11 @@
+{
+    "_id": {
+        "$oid": "6881e2b73da46bfbaa394025"
+    },
+    "block_name": "D",
+    "floors": 5,
+    "total_flats": 18,
+    "lift_available": true,
+    "block_manager": "Mrs. Neeta Kamat",
+    "cctv_installed": true
+}

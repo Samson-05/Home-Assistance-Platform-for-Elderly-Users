@@ -1,0 +1,11 @@
+{
+    "_id": {
+        "$oid": "6881e2b73da46bfbaa394027"
+    },
+    "block_name": "F",
+    "floors": 3,
+    "total_flats": 12,
+    "lift_available": false,
+    "block_manager": "Ms. Rekha Singh",
+    "cctv_installed": false
+}

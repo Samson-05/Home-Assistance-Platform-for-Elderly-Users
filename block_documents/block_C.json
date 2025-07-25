@@ -1,0 +1,11 @@
+{
+    "_id": {
+        "$oid": "6881e2b73da46bfbaa394024"
+    },
+    "block_name": "C",
+    "floors": 4,
+    "total_flats": 16,
+    "lift_available": false,
+    "block_manager": "Mr. Rajesh Iyer",
+    "cctv_installed": false
+}

@@ -1,0 +1,11 @@
+{
+    "_id": {
+        "$oid": "6881e2b73da46bfbaa39402b"
+    },
+    "block_name": "J",
+    "floors": 8,
+    "total_flats": 32,
+    "lift_available": true,
+    "block_manager": "Mr. Mohan Patil",
+    "cctv_installed": true
+}

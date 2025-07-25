@@ -1,0 +1,11 @@
+{
+    "_id": {
+        "$oid": "6881e2b73da46bfbaa394023"
+    },
+    "block_name": "B",
+    "floors": 6,
+    "total_flats": 24,
+    "lift_available": true,
+    "block_manager": "Ms. Pooja Sharma",
+    "cctv_installed": true
+}

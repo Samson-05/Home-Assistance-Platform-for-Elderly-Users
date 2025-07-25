@@ -1,0 +1,11 @@
+{
+    "_id": {
+        "$oid": "6881e2b73da46bfbaa394028"
+    },
+    "block_name": "G",
+    "floors": 4,
+    "total_flats": 14,
+    "lift_available": true,
+    "block_manager": "Mr. Deepak Chauhan",
+    "cctv_installed": false
+}
